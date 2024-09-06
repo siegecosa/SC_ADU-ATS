@@ -1,0 +1,535 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|c:\\users\\cj elarcosa\\source\\repos\\ats versions\\event\\event\\user_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\user_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\add_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\add_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\admin_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\admin_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\book_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\book_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\calendar_popup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\calendar_popup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\calendardays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\calendardays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\staff_edit_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\staff_edit_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\edit_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\edit_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\edit_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\edit_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\staff_calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\staff_calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\staff_events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\staff_events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\staff_records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\staff_records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\edit_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\edit_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\calendarspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\calendarspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\edit_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\edit_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\add_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\add_staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\calendar_popup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\calendar_popup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\staff_events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\staff_events.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\staff_edit_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\staff_edit_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\user_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\user_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\staff_records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\staff_records.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\staff_calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\staff_calendar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\book_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\book_event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\admin_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\admin_profile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\calendardays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\calendardays.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\event\\calendarspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{98DFB710-880D-4499-BA6F-B0889040B156}|EVENT\\EVENT.csproj|solutionrelative:event\\calendarspace.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Calendar_Popup.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Calendar_Popup.cs",
+              "RelativeDocumentMoniker": "EVENT\\Calendar_Popup.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Calendar_Popup.cs",
+              "RelativeToolTip": "EVENT\\Calendar_Popup.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAgwBQAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calendar.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Calendar.cs",
+              "RelativeDocumentMoniker": "EVENT\\Calendar.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Calendar.cs",
+              "RelativeToolTip": "EVENT\\Calendar.cs",
+              "ViewState": "AQIAAKIAAAAAAAAAAAAIwA4AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Book_Event.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Book_Event.cs",
+              "RelativeDocumentMoniker": "EVENT\\Book_Event.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Book_Event.cs",
+              "RelativeToolTip": "EVENT\\Book_Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Admin_Profile.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Admin_Profile.cs",
+              "RelativeDocumentMoniker": "EVENT\\Admin_Profile.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Admin_Profile.cs",
+              "RelativeToolTip": "EVENT\\Admin_Profile.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAIAwwA8AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Add_Staff.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Add_Staff.cs",
+              "RelativeDocumentMoniker": "EVENT\\Add_Staff.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Add_Staff.cs",
+              "RelativeToolTip": "EVENT\\Add_Staff.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAtwBQAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "User_Profile.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\User_Profile.cs",
+              "RelativeDocumentMoniker": "EVENT\\User_Profile.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\User_Profile.cs",
+              "RelativeToolTip": "EVENT\\User_Profile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-19T06:20:33.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CalendarDays.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\CalendarDays.cs",
+              "RelativeDocumentMoniker": "EVENT\\CalendarDays.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\CalendarDays.cs",
+              "RelativeToolTip": "EVENT\\CalendarDays.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAowA8AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2023-07-19T06:20:33.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Staff_Edit_Event.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Staff_Edit_Event.cs",
+              "RelativeDocumentMoniker": "EVENT\\Staff_Edit_Event.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Staff_Edit_Event.cs",
+              "RelativeToolTip": "EVENT\\Staff_Edit_Event.cs",
+              "ViewState": "AQIAAO4AAAAAAAAAAADwv/8AAAC9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit_Event.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Edit_Event.cs",
+              "RelativeDocumentMoniker": "EVENT\\Edit_Event.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Edit_Event.cs",
+              "RelativeToolTip": "EVENT\\Edit_Event.cs",
+              "ViewState": "AQIAACABAAAAAAAAAAAiwBIAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit_Staff.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Edit_Staff.cs",
+              "RelativeDocumentMoniker": "EVENT\\Edit_Staff.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Edit_Staff.cs",
+              "RelativeToolTip": "EVENT\\Edit_Staff.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.87Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Events.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Events.cs",
+              "RelativeDocumentMoniker": "EVENT\\Events.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Events.cs",
+              "RelativeToolTip": "EVENT\\Events.cs",
+              "ViewState": "AQIAAOMAAAAAAAAAAAAUwA8AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Form1.cs",
+              "RelativeDocumentMoniker": "EVENT\\Form1.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Form1.cs",
+              "RelativeToolTip": "EVENT\\Form1.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAwwBkAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.873Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Login.cs",
+              "RelativeDocumentMoniker": "EVENT\\Login.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Login.cs",
+              "RelativeToolTip": "EVENT\\Login.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Staff_Calendar.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Staff_Calendar.cs",
+              "RelativeDocumentMoniker": "EVENT\\Staff_Calendar.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Staff_Calendar.cs",
+              "RelativeToolTip": "EVENT\\Staff_Calendar.cs",
+              "ViewState": "AQIAALoAAAAAAAAAAAAiwGYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Staff_Events.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Staff_Events.cs",
+              "RelativeDocumentMoniker": "EVENT\\Staff_Events.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Staff_Events.cs",
+              "RelativeToolTip": "EVENT\\Staff_Events.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Staff_Records.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Staff_Records.cs",
+              "RelativeDocumentMoniker": "EVENT\\Staff_Records.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Staff_Records.cs",
+              "RelativeToolTip": "EVENT\\Staff_Records.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit_Event.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Edit_Event.cs",
+              "RelativeDocumentMoniker": "EVENT\\Edit_Event.cs",
+              "ToolTip": "D:\\Jade\\Documents\\3RD YEAR\\MIDYEAR\\QA\\EVENT\\EVENT\\Edit_Event.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CalendarSpace.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\CalendarSpace.cs",
+              "RelativeDocumentMoniker": "EVENT\\CalendarSpace.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\CalendarSpace.cs",
+              "RelativeToolTip": "EVENT\\CalendarSpace.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2023-07-19T06:20:33.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Edit_Staff.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Edit_Staff.cs",
+              "RelativeDocumentMoniker": "EVENT\\Edit_Staff.cs",
+              "ToolTip": "D:\\Jade\\Documents\\3RD YEAR\\MIDYEAR\\QA\\EVENT\\EVENT\\Edit_Staff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Events.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Events.cs",
+              "RelativeDocumentMoniker": "EVENT\\Events.cs",
+              "ToolTip": "D:\\Jade\\Documents\\3RD YEAR\\MIDYEAR\\QA\\EVENT\\EVENT\\Events.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Add_Staff.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Add_Staff.cs",
+              "RelativeDocumentMoniker": "EVENT\\Add_Staff.cs",
+              "ToolTip": "D:\\Jade\\Documents\\3RD YEAR\\MIDYEAR\\QA\\EVENT\\EVENT\\Add_Staff.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.888Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Staff_Events.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Staff_Events.cs",
+              "RelativeDocumentMoniker": "EVENT\\Staff_Events.cs",
+              "ToolTip": "D:\\Jade\\Documents\\3RD YEAR\\MIDYEAR\\QA\\EVENT\\EVENT\\Staff_Events.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Calendar_Popup.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Calendar_Popup.cs",
+              "RelativeDocumentMoniker": "EVENT\\Calendar_Popup.cs",
+              "ToolTip": "D:\\Jade\\Documents\\3RD YEAR\\MIDYEAR\\QA\\EVENT\\EVENT\\Calendar_Popup.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Form1.cs",
+              "RelativeDocumentMoniker": "EVENT\\Form1.cs",
+              "ToolTip": "D:\\Jade\\Documents\\3RD YEAR\\MIDYEAR\\QA\\EVENT\\EVENT\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Calendar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Calendar.cs",
+              "RelativeDocumentMoniker": "EVENT\\Calendar.cs",
+              "ToolTip": "D:\\Jade\\Documents\\3RD YEAR\\MIDYEAR\\QA\\EVENT\\EVENT\\Calendar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Login.cs",
+              "RelativeDocumentMoniker": "EVENT\\Login.cs",
+              "ToolTip": "D:\\Jade\\Documents\\3RD YEAR\\MIDYEAR\\QA\\EVENT\\EVENT\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Staff_Edit_Event.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Staff_Edit_Event.cs",
+              "RelativeDocumentMoniker": "EVENT\\Staff_Edit_Event.cs",
+              "ToolTip": "D:\\Jade\\Documents\\3RD YEAR\\MIDYEAR\\QA\\EVENT\\EVENT\\Staff_Edit_Event.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "User_Profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\User_Profile.cs",
+              "RelativeDocumentMoniker": "EVENT\\User_Profile.cs",
+              "ToolTip": "D:\\Jade\\Documents\\3RD YEAR\\MIDYEAR\\QA\\EVENT\\EVENT\\User_Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Staff_Records.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Staff_Records.cs",
+              "RelativeDocumentMoniker": "EVENT\\Staff_Records.cs",
+              "ToolTip": "D:\\Jade\\Documents\\3RD YEAR\\MIDYEAR\\QA\\EVENT\\EVENT\\Staff_Records.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Staff_Calendar.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Staff_Calendar.cs",
+              "RelativeDocumentMoniker": "EVENT\\Staff_Calendar.cs",
+              "ToolTip": "D:\\Jade\\Documents\\3RD YEAR\\MIDYEAR\\QA\\EVENT\\EVENT\\Staff_Calendar.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Book_Event.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Book_Event.cs",
+              "RelativeDocumentMoniker": "EVENT\\Book_Event.cs",
+              "ToolTip": "D:\\Jade\\Documents\\3RD YEAR\\MIDYEAR\\QA\\EVENT\\EVENT\\Book_Event.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Admin_Profile.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\Admin_Profile.cs",
+              "RelativeDocumentMoniker": "EVENT\\Admin_Profile.cs",
+              "ToolTip": "D:\\Jade\\Documents\\3RD YEAR\\MIDYEAR\\QA\\EVENT\\EVENT\\Admin_Profile.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-19T06:20:33.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CalendarDays.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\CalendarDays.cs",
+              "RelativeDocumentMoniker": "EVENT\\CalendarDays.cs",
+              "ToolTip": "D:\\Jade\\Documents\\3RD YEAR\\MIDYEAR\\QA\\EVENT\\EVENT\\CalendarDays.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2023-07-19T06:20:33.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CalendarSpace.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\EVENT\\EVENT\\CalendarSpace.cs",
+              "RelativeDocumentMoniker": "EVENT\\CalendarSpace.cs",
+              "ToolTip": "D:\\Jade\\Documents\\3RD YEAR\\MIDYEAR\\QA\\EVENT\\EVENT\\CalendarSpace.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003302|",
+              "WhenOpened": "2023-07-19T06:20:33.916Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

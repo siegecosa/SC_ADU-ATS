@@ -1,0 +1,159 @@
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\EVENT.exe.config
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\EVENT.exe
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\EVENT.pdb
+D:\Jade\Visual Studio\EVENT\EVENT\obj\Debug\EVENT.csproj.AssemblyReference.cache
+D:\Jade\Visual Studio\EVENT\EVENT\obj\Debug\EVENT.csproj.SuggestedBindingRedirects.cache
+D:\Jade\Visual Studio\EVENT\EVENT\obj\Debug\EVENT.Properties.Resources.resources
+D:\Jade\Visual Studio\EVENT\EVENT\obj\Debug\EVENT.csproj.GenerateResource.cache
+D:\Jade\Visual Studio\EVENT\EVENT\obj\Debug\EVENT.csproj.CoreCompileInputs.cache
+D:\Jade\Visual Studio\EVENT\EVENT\obj\Debug\EVENT.exe
+D:\Jade\Visual Studio\EVENT\EVENT\obj\Debug\EVENT.pdb
+D:\Jade\Visual Studio\EVENT\EVENT\obj\Debug\EVENT.Calendar.resources
+D:\Jade\Visual Studio\EVENT\EVENT\obj\Debug\EVENT.Dashboard.resources
+D:\Jade\Visual Studio\EVENT\EVENT\obj\Debug\EVENT.Login.resources
+D:\Jade\Visual Studio\EVENT\EVENT\obj\Debug\EVENT.Edit_Event.resources
+D:\Jade\Visual Studio\EVENT\EVENT\obj\Debug\EVENT.Book_Event.resources
+D:\Jade\Visual Studio\EVENT\EVENT\obj\Debug\EVENT.CalendarSpace.resources
+D:\Jade\Visual Studio\EVENT\EVENT\obj\Debug\EVENT.CalendarDays.resources
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\BouncyCastle.Crypto.dll
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\Google.Protobuf.dll
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\K4os.Compression.LZ4.dll
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\K4os.Hash.xxHash.dll
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\MySql.Data.dll
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\System.Buffers.dll
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\System.IO.Pipelines.dll
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\System.Memory.dll
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\System.Numerics.Vectors.dll
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\BouncyCastle.Crypto.xml
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\Google.Protobuf.pdb
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\Google.Protobuf.xml
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\K4os.Compression.LZ4.xml
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\K4os.Hash.xxHash.xml
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\MySql.Data.xml
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\System.Buffers.xml
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\System.IO.Pipelines.xml
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\System.Memory.xml
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\System.Numerics.Vectors.xml
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Jade\Visual Studio\EVENT\EVENT\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Jade\Visual Studio\EVENT\EVENT\obj\Debug\EVENT.csproj.CopyComplete
+D:\Jade\Visual Studio\EVENT\EVENT\obj\Debug\EVENT.Staff_Records.resources
+D:\Jade\Visual Studio\EVENT\EVENT\obj\Debug\EVENT.Edit_Staff.resources
+D:\Jade\Visual Studio\EVENT\EVENT\obj\Debug\EVENT.Staff_Calendar.resources
+D:\Jade\Visual Studio\EVENT\EVENT\obj\Debug\EVENT.Staff_Events.resources
+D:\Jade\Visual Studio\EVENT\EVENT\obj\Debug\EVENT.EventsF.resources
+D:\Jade\Visual Studio\EVENT\EVENT\obj\Debug\EVENT.Add_Staff.resources
+D:\Jade\Visual Studio\EVENT\EVENT\obj\Debug\EVENT.Calendar_Popup.resources
+D:\Jade\Visual Studio\EVENT\EVENT\obj\Debug\EVENT.Staff_Profile.resources
+D:\Jade\Visual Studio\EVENT\EVENT\obj\Debug\EVENT.Admin_Profile.resources
+D:\Jade\Visual Studio\EVENT\EVENT\obj\Debug\EVENT.Staff_Edit_Event.resources
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\EVENT.exe.config
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\EVENT.exe
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\EVENT.pdb
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\BouncyCastle.Crypto.dll
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\Google.Protobuf.dll
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\K4os.Compression.LZ4.dll
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\K4os.Hash.xxHash.dll
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\MySql.Data.dll
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\System.Buffers.dll
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\System.IO.Pipelines.dll
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\System.Memory.dll
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\System.Numerics.Vectors.dll
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\BouncyCastle.Crypto.xml
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\Google.Protobuf.pdb
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\Google.Protobuf.xml
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\K4os.Compression.LZ4.xml
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\K4os.Hash.xxHash.xml
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\MySql.Data.xml
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\System.Buffers.xml
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\System.IO.Pipelines.xml
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\System.Memory.xml
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\System.Numerics.Vectors.xml
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\obj\Debug\EVENT.csproj.AssemblyReference.cache
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\obj\Debug\EVENT.csproj.SuggestedBindingRedirects.cache
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\obj\Debug\EVENT.Add_Staff.resources
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\obj\Debug\EVENT.Admin_Profile.resources
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\obj\Debug\EVENT.Book_Event.resources
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\obj\Debug\EVENT.Calendar.resources
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\obj\Debug\EVENT.CalendarDays.resources
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\obj\Debug\EVENT.CalendarSpace.resources
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\obj\Debug\EVENT.Calendar_Popup.resources
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\obj\Debug\EVENT.Edit_Event.resources
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\obj\Debug\EVENT.Edit_Staff.resources
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\obj\Debug\EVENT.EventsF.resources
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\obj\Debug\EVENT.Dashboard.resources
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\obj\Debug\EVENT.Login.resources
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\obj\Debug\EVENT.Properties.Resources.resources
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\obj\Debug\EVENT.Staff_Calendar.resources
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\obj\Debug\EVENT.Staff_Edit_Event.resources
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\obj\Debug\EVENT.Staff_Events.resources
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\obj\Debug\EVENT.Staff_Records.resources
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\obj\Debug\EVENT.Staff_Profile.resources
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\obj\Debug\EVENT.csproj.GenerateResource.cache
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\obj\Debug\EVENT.csproj.CoreCompileInputs.cache
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\obj\Debug\EVENT.csproj.CopyComplete
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\obj\Debug\EVENT.exe
+D:\Jade\Documents\3RD YEAR\MIDYEAR\QA\EVENT\EVENT\obj\Debug\EVENT.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\EVENT.exe.config
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\EVENT.exe
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\EVENT.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\Google.Protobuf.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\MySql.Data.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\System.Buffers.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\System.IO.Pipelines.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\System.Memory.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\Google.Protobuf.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\Google.Protobuf.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\MySql.Data.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\System.Buffers.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\System.IO.Pipelines.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\System.Memory.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\obj\Debug\EVENT.csproj.AssemblyReference.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\obj\Debug\EVENT.csproj.SuggestedBindingRedirects.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\obj\Debug\EVENT.Add_Staff.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\obj\Debug\EVENT.Admin_Profile.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\obj\Debug\EVENT.Book_Event.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\obj\Debug\EVENT.Calendar.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\obj\Debug\EVENT.CalendarDays.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\obj\Debug\EVENT.CalendarSpace.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\obj\Debug\EVENT.Calendar_Popup.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\obj\Debug\EVENT.Edit_Event.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\obj\Debug\EVENT.Edit_Staff.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\obj\Debug\EVENT.EventsF.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\obj\Debug\EVENT.Dashboard.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\obj\Debug\EVENT.Login.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\obj\Debug\EVENT.Properties.Resources.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\obj\Debug\EVENT.Staff_Calendar.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\obj\Debug\EVENT.Staff_Edit_Event.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\obj\Debug\EVENT.Staff_Events.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\obj\Debug\EVENT.Staff_Records.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\obj\Debug\EVENT.Staff_Profile.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\obj\Debug\EVENT.csproj.GenerateResource.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\obj\Debug\EVENT.csproj.CoreCompileInputs.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\obj\Debug\EVENT.csproj.CopyComplete
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\obj\Debug\EVENT.exe
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\EVENT\EVENT\obj\Debug\EVENT.pdb

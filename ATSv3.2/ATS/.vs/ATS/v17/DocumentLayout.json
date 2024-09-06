@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\ATSv3.2\\ATS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEB45F5-90B5-4A67-B43F-C496FCBC2343}|ATS\\ATS.csproj|c:\\users\\cj elarcosa\\source\\repos\\ats versions\\atsv3.2\\ats\\ats\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EEB45F5-90B5-4A67-B43F-C496FCBC2343}|ATS\\ATS.csproj|solutionrelative:ats\\admin_dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEB45F5-90B5-4A67-B43F-C496FCBC2343}|ATS\\ATS.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\ATSv3.2\\ATS\\ats\\form_changepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EEB45F5-90B5-4A67-B43F-C496FCBC2343}|ATS\\ATS.csproj|solutionrelative:ats\\form_changepass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEB45F5-90B5-4A67-B43F-C496FCBC2343}|ATS\\ATS.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\ATSv3.2\\ATS\\ats\\admin_empmngmnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EEB45F5-90B5-4A67-B43F-C496FCBC2343}|ATS\\ATS.csproj|solutionrelative:ats\\admin_empmngmnt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEB45F5-90B5-4A67-B43F-C496FCBC2343}|ATS\\ATS.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\ATSv3.2\\ATS\\ats\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9EEB45F5-90B5-4A67-B43F-C496FCBC2343}|ATS\\ATS.csproj|solutionrelative:ats\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EEB45F5-90B5-4A67-B43F-C496FCBC2343}|ATS\\ATS.csproj|C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\ATSv3.2\\ATS\\ats\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EEB45F5-90B5-4A67-B43F-C496FCBC2343}|ATS\\ATS.csproj|solutionrelative:ats\\form_login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "admin_dashboard.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\ATSv3.2\\ATS\\ATS\\admin_dashboard.cs",
+              "RelativeDocumentMoniker": "ATS\\admin_dashboard.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\ATSv3.2\\ATS\\ATS\\admin_dashboard.cs [Design]",
+              "RelativeToolTip": "ATS\\admin_dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-07-15T06:53:26.783Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "form_login.cs",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\ATSv3.2\\ATS\\ATS\\form_login.cs",
+              "RelativeDocumentMoniker": "ATS\\form_login.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\ATSv3.2\\ATS\\ATS\\form_login.cs",
+              "RelativeToolTip": "ATS\\form_login.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAApwBkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-02-09T05:02:46.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "admin_empmngmnt.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\ATSv3.2\\ATS\\ATS\\admin_empmngmnt.cs",
+              "RelativeDocumentMoniker": "ATS\\admin_empmngmnt.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\ATSv3.2\\ATS\\ATS\\admin_empmngmnt.cs [Design]",
+              "RelativeToolTip": "ATS\\admin_empmngmnt.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-15T06:53:26.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "form_login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\ATSv3.2\\ATS\\ATS\\form_login.cs",
+              "RelativeDocumentMoniker": "ATS\\form_login.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\ATSv3.2\\ATS\\ATS\\form_login.cs [Design]",
+              "RelativeToolTip": "ATS\\form_login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-15T06:53:26.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "form_changepass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\ATSv3.2\\ATS\\ATS\\form_changepass.cs",
+              "RelativeDocumentMoniker": "ATS\\form_changepass.cs",
+              "ToolTip": "C:\\Users\\CJ Elarcosa\\source\\repos\\ATS Versions\\ATSv3.2\\ATS\\ATS\\form_changepass.cs [Design]",
+              "RelativeToolTip": "ATS\\form_changepass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2023-07-15T06:53:26.816Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

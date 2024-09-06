@@ -1,0 +1,980 @@
+C:\Users\Acer\source\repos\ATS Versions\ATSv1\ATS\ATS\bin\Debug\ATS.exe.config
+C:\Users\Acer\source\repos\ATS Versions\ATSv1\ATS\ATS\bin\Debug\ATS.exe
+C:\Users\Acer\source\repos\ATS Versions\ATSv1\ATS\ATS\bin\Debug\ATS.pdb
+C:\Users\Acer\source\repos\ATS Versions\ATSv1\ATS\ATS\obj\Debug\ATS.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv1\ATS\ATS\obj\Debug\ATS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv1\ATS\ATS\obj\Debug\ATS.Properties.Resources.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv1\ATS\ATS\obj\Debug\ATS.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv1\ATS\ATS\obj\Debug\ATS.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv1\ATS\ATS\obj\Debug\ATS.exe
+C:\Users\Acer\source\repos\ATS Versions\ATSv1\ATS\ATS\obj\Debug\ATS.pdb
+C:\Users\Acer\source\repos\ATS Versions\ATSv1\ATS\ATS\obj\Debug\ATS.admin_dashboard.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv1\ATS\ATS\obj\Debug\ATS.admin_empmanagement.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv1\ATS\ATS\obj\Debug\ATS.admin_leavemanagement.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv1\ATS\ATS\obj\Debug\ATS.form_login.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1\ATS\ATS\obj\Debug\ATS.csproj.AssemblyReference.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1\ATS\ATS\obj\Debug\ATS.csproj.SuggestedBindingRedirects.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1\ATS\ATS\obj\Debug\ATS.admin_dashboard.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1\ATS\ATS\obj\Debug\ATS.admin_leavemanagement.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1\ATS\ATS\obj\Debug\ATS.form_login.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1\ATS\ATS\obj\Debug\ATS.Properties.Resources.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1\ATS\ATS\obj\Debug\ATS.csproj.GenerateResource.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1\ATS\ATS\obj\Debug\ATS.csproj.CoreCompileInputs.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1\ATS\ATS\obj\Debug\ATS.exe
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1\ATS\ATS\obj\Debug\ATS.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1\ATS\ATS\bin\Debug\ATS.exe.config
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1\ATS\ATS\bin\Debug\ATS.exe
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1\ATS\ATS\bin\Debug\ATS.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1\ATS\ATS\obj\Debug\ATS.admin_empmngmnt.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1\ATS\ATS\obj\Debug\ATS.admin_leave.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1\ATS\ATS\obj\Debug\ATS.emp_dashboard.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1\ATS\ATS\obj\Debug\ATS.emp_leave.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1\ATS\ATS\obj\Debug\ATS.emp_time.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.1\ATS\ATS\bin\Debug\ATS.exe.config
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.1\ATS\ATS\bin\Debug\ATS.exe
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.1\ATS\ATS\bin\Debug\ATS.pdb
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.1\ATS\ATS\obj\Debug\ATS.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.1\ATS\ATS\obj\Debug\ATS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.1\ATS\ATS\obj\Debug\ATS.admin_dashboard.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.1\ATS\ATS\obj\Debug\ATS.admin_empmngmnt.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.1\ATS\ATS\obj\Debug\ATS.admin_leave.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.1\ATS\ATS\obj\Debug\ATS.emp_dashboard.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.1\ATS\ATS\obj\Debug\ATS.emp_leave.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.1\ATS\ATS\obj\Debug\ATS.emp_time.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.1\ATS\ATS\obj\Debug\ATS.form_login.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.1\ATS\ATS\obj\Debug\ATS.Properties.Resources.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.1\ATS\ATS\obj\Debug\ATS.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.1\ATS\ATS\obj\Debug\ATS.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.1\ATS\ATS\obj\Debug\ATS.exe
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.1\ATS\ATS\obj\Debug\ATS.pdb
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\ATS.exe.config
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\ATS.exe
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\ATS.pdb
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.admin_dashboard.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.admin_empmngmnt.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.admin_leave.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.emp_dashboard.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.emp_leave.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.emp_time.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.form_login.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.Properties.Resources.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.exe
+C:\Users\Acer\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\ATS.exe.config
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\ATS.exe
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\ATS.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.csproj.AssemblyReference.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.csproj.SuggestedBindingRedirects.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.admin_dashboard.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.admin_empmngmnt.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.admin_leave.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.emp_dashboard.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.emp_leave.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.emp_time.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.form_login.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.Properties.Resources.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.csproj.GenerateResource.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.csproj.CoreCompileInputs.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.exe
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\Google.Protobuf.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\MySql.Data.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\System.Buffers.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\System.IO.Pipelines.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\System.Memory.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\Google.Protobuf.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\Google.Protobuf.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\MySql.Data.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\System.Buffers.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\System.IO.Pipelines.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\System.Memory.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.3\ATS\ATS\obj\Debug\ATS.csproj.CopyComplete
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\ATS.exe.config
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\ATS.exe
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\ATS.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\Google.Protobuf.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\MySql.Data.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\System.Buffers.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\System.IO.Pipelines.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\System.Memory.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\Google.Protobuf.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\Google.Protobuf.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\MySql.Data.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\System.Buffers.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\System.IO.Pipelines.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\System.Memory.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\obj\Debug\ATS.csproj.AssemblyReference.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\obj\Debug\ATS.csproj.SuggestedBindingRedirects.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\obj\Debug\ATS.admin_dashboard.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\obj\Debug\ATS.admin_empmngmnt.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\obj\Debug\ATS.admin_leave.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\obj\Debug\ATS.emp_dashboard.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\obj\Debug\ATS.emp_leave.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\obj\Debug\ATS.emp_time.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\obj\Debug\ATS.form_login.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\obj\Debug\ATS.Properties.Resources.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\obj\Debug\ATS.csproj.GenerateResource.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\obj\Debug\ATS.csproj.CoreCompileInputs.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\obj\Debug\ATS.csproj.CopyComplete
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\obj\Debug\ATS.exe
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.5\ATS\ATS\obj\Debug\ATS.pdb
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\ATS.exe.config
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\ATS.exe
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\ATS.pdb
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\BouncyCastle.Crypto.dll
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\Google.Protobuf.dll
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\K4os.Compression.LZ4.dll
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\K4os.Hash.xxHash.dll
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\MySql.Data.dll
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\QRCoder.dll
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\System.Buffers.dll
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\System.IO.Pipelines.dll
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\System.Memory.dll
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\System.Numerics.Vectors.dll
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\BouncyCastle.Crypto.xml
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\Google.Protobuf.pdb
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\Google.Protobuf.xml
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\K4os.Compression.LZ4.xml
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\K4os.Hash.xxHash.xml
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\MySql.Data.xml
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\System.Buffers.xml
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\System.IO.Pipelines.xml
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\System.Memory.xml
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\System.Numerics.Vectors.xml
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\obj\Debug\ATS.csproj.AssemblyReference.cache
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\obj\Debug\ATS.csproj.SuggestedBindingRedirects.cache
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\obj\Debug\ATS.admin_dashboard.resources
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\obj\Debug\ATS.admin_empmngmnt.resources
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\obj\Debug\ATS.admin_leave.resources
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\obj\Debug\ATS.emp_dashboard.resources
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\obj\Debug\ATS.emp_leave.resources
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\obj\Debug\ATS.emp_time.resources
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\obj\Debug\ATS.form_login.resources
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\obj\Debug\ATS.Properties.Resources.resources
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\obj\Debug\ATS.csproj.GenerateResource.cache
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\obj\Debug\ATS.csproj.CoreCompileInputs.cache
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\obj\Debug\ATS.csproj.CopyComplete
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\obj\Debug\ATS.exe
+D:\myNeeds\School document\QA\ATSv1.6\ATS\ATS\obj\Debug\ATS.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\ATS.exe.config
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\ATS.exe
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\ATS.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\Google.Protobuf.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\MySql.Data.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\QRCoder.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\System.Buffers.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\System.IO.Pipelines.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\System.Memory.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\Google.Protobuf.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\Google.Protobuf.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\MySql.Data.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\System.Buffers.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\System.IO.Pipelines.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\System.Memory.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\obj\Debug\ATS.csproj.AssemblyReference.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\obj\Debug\ATS.csproj.SuggestedBindingRedirects.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\obj\Debug\ATS.admin_dashboard.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\obj\Debug\ATS.admin_empmngmnt.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\obj\Debug\ATS.admin_leave.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\obj\Debug\ATS.emp_dashboard.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\obj\Debug\ATS.emp_leave.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\obj\Debug\ATS.emp_time.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\obj\Debug\ATS.form_login.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\obj\Debug\ATS.Properties.Resources.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\obj\Debug\ATS.csproj.GenerateResource.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\obj\Debug\ATS.csproj.CoreCompileInputs.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\obj\Debug\ATS.csproj.CopyComplete
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\obj\Debug\ATS.exe
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.7\ATS\ATS\obj\Debug\ATS.pdb
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\ATS.exe.config
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\ATS.exe
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\ATS.pdb
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\Google.Protobuf.dll
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\MySql.Data.dll
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\QRCoder.dll
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\System.Buffers.dll
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\System.Memory.dll
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\Google.Protobuf.pdb
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\Google.Protobuf.xml
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\MySql.Data.xml
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\System.Buffers.xml
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\System.Memory.xml
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\obj\Debug\ATS.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\obj\Debug\ATS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\obj\Debug\ATS.admin_dashboard.resources
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\obj\Debug\ATS.admin_empmngmnt.resources
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\obj\Debug\ATS.admin_leave.resources
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\obj\Debug\ATS.emp_dashboard.resources
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\obj\Debug\ATS.emp_leave.resources
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\obj\Debug\ATS.emp_time.resources
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\obj\Debug\ATS.form_login.resources
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\obj\Debug\ATS.Properties.Resources.resources
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\obj\Debug\ATS.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\obj\Debug\ATS.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\obj\Debug\ATS.csproj.CopyComplete
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\obj\Debug\ATS.exe
+C:\Users\Acer\source\repos\ATS Versions\AMSv1.8\ATS\ATS\obj\Debug\ATS.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\ATS.exe.config
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\ATS.exe
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\ATS.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\Google.Protobuf.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\MySql.Data.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\QRCoder.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\System.Buffers.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\System.IO.Pipelines.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\System.Memory.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\Google.Protobuf.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\Google.Protobuf.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\MySql.Data.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\System.Buffers.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\System.IO.Pipelines.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\System.Memory.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\obj\Debug\ATS.csproj.AssemblyReference.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\obj\Debug\ATS.csproj.SuggestedBindingRedirects.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\obj\Debug\ATS.admin_dashboard.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\obj\Debug\ATS.admin_empmngmnt.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\obj\Debug\ATS.admin_leave.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\obj\Debug\ATS.emp_dashboard.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\obj\Debug\ATS.emp_leave.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\obj\Debug\ATS.emp_time.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\obj\Debug\ATS.form_login.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\obj\Debug\ATS.Properties.Resources.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\obj\Debug\ATS.csproj.GenerateResource.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\obj\Debug\ATS.csproj.CoreCompileInputs.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\obj\Debug\ATS.csproj.CopyComplete
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\obj\Debug\ATS.exe
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv1.9\ATS\ATS\obj\Debug\ATS.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\ATS.exe.config
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\ATS.exe
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\ATS.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\Google.Protobuf.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\MySql.Data.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\QRCoder.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\System.Buffers.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\System.IO.Pipelines.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\System.Memory.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\Google.Protobuf.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\Google.Protobuf.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\MySql.Data.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\System.Buffers.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\System.IO.Pipelines.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\System.Memory.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\obj\Debug\ATS.csproj.AssemblyReference.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\obj\Debug\ATS.csproj.SuggestedBindingRedirects.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\obj\Debug\ATS.admin_dashboard.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\obj\Debug\ATS.admin_empmngmnt.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\obj\Debug\ATS.admin_leave.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\obj\Debug\ATS.emp_dashboard.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\obj\Debug\ATS.emp_leave.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\obj\Debug\ATS.emp_time.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\obj\Debug\ATS.form_login.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\obj\Debug\ATS.Properties.Resources.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\obj\Debug\ATS.csproj.GenerateResource.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\obj\Debug\ATS.csproj.CoreCompileInputs.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\obj\Debug\ATS.csproj.CopyComplete
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\obj\Debug\ATS.exe
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.0\ATS\ATS\obj\Debug\ATS.pdb
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\ATS.exe.config
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\ATS.exe
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\ATS.pdb
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\BouncyCastle.Crypto.dll
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\Google.Protobuf.dll
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\K4os.Compression.LZ4.dll
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\K4os.Hash.xxHash.dll
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\MySql.Data.dll
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\QRCoder.dll
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\System.Buffers.dll
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\System.IO.Pipelines.dll
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\System.Memory.dll
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\System.Numerics.Vectors.dll
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\BouncyCastle.Crypto.xml
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\Google.Protobuf.pdb
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\Google.Protobuf.xml
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\K4os.Compression.LZ4.xml
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\K4os.Hash.xxHash.xml
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\MySql.Data.xml
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\System.Buffers.xml
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\System.IO.Pipelines.xml
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\System.Memory.xml
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\System.Numerics.Vectors.xml
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\obj\Debug\ATS.csproj.AssemblyReference.cache
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\obj\Debug\ATS.csproj.SuggestedBindingRedirects.cache
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\obj\Debug\ATS.admin_dashboard.resources
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\obj\Debug\ATS.admin_empmngmnt.resources
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\obj\Debug\ATS.admin_leave.resources
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\obj\Debug\ATS.emp_dashboard.resources
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\obj\Debug\ATS.emp_leave.resources
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\obj\Debug\ATS.emp_time.resources
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\obj\Debug\ATS.form_login.resources
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\obj\Debug\ATS.Properties.Resources.resources
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\obj\Debug\ATS.csproj.GenerateResource.cache
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\obj\Debug\ATS.csproj.CoreCompileInputs.cache
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\obj\Debug\ATS.csproj.CopyComplete
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\obj\Debug\ATS.exe
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\obj\Debug\ATS.pdb
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\Interop.AcroPDFLib.dll
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\obj\Debug\Interop.AcroPDFLib.dll
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\obj\Debug\ATS.csproj.ResolveComReference.cache
+D:\myNeeds\School document\QA\ATSv2.1\ATS\ATS\obj\Debug\ATS.admin_pdfviewer.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\ATS.exe.config
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\ATS.exe
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\ATS.pdb
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\Google.Protobuf.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\MySql.Data.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\QRCoder.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\System.Buffers.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\System.Memory.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\Google.Protobuf.pdb
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\Google.Protobuf.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\MySql.Data.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\System.Buffers.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\System.Memory.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\obj\Debug\ATS.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\obj\Debug\ATS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\obj\Debug\ATS.csproj.ResolveComReference.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\obj\Debug\ATS.admin_dashboard.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\obj\Debug\ATS.admin_empmngmnt.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\obj\Debug\ATS.admin_leave.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\obj\Debug\ATS.emp_dashboard.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\obj\Debug\ATS.emp_leave.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\obj\Debug\ATS.emp_time.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\obj\Debug\ATS.admin_pdfviewer.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\obj\Debug\ATS.form_login.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\obj\Debug\ATS.Properties.Resources.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\obj\Debug\ATS.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\obj\Debug\ATS.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\obj\Debug\ATS.csproj.CopyComplete
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\obj\Debug\ATS.exe
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.2\ATS\ATS\obj\Debug\ATS.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\ATS.exe.config
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\ATS.exe
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\ATS.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\Google.Protobuf.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\MySql.Data.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\QRCoder.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\System.Buffers.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\System.IO.Pipelines.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\System.Memory.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\Google.Protobuf.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\Google.Protobuf.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\MySql.Data.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\System.Buffers.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\System.IO.Pipelines.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\System.Memory.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\obj\Debug\ATS.csproj.AssemblyReference.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\obj\Debug\ATS.csproj.SuggestedBindingRedirects.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\obj\Debug\ATS.csproj.ResolveComReference.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\obj\Debug\ATS.admin_dashboard.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\obj\Debug\ATS.admin_empmngmnt.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\obj\Debug\ATS.admin_leave.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\obj\Debug\ATS.emp_dashboard.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\obj\Debug\ATS.emp_leave.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\obj\Debug\ATS.emp_time.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\obj\Debug\ATS.admin_pdfviewer.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\obj\Debug\ATS.form_login.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\obj\Debug\ATS.Properties.Resources.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\obj\Debug\ATS.csproj.GenerateResource.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\obj\Debug\ATS.csproj.CoreCompileInputs.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\obj\Debug\ATS.csproj.CopyComplete
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\obj\Debug\ATS.exe
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.3\ATS\ATS\obj\Debug\ATS.pdb
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\ATS.exe.config
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\ATS.exe
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\ATS.pdb
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\Google.Protobuf.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\MySql.Data.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\QRCoder.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\System.Buffers.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\System.Memory.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\Google.Protobuf.pdb
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\Google.Protobuf.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\MySql.Data.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\System.Buffers.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\System.Memory.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\obj\Debug\ATS.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\obj\Debug\ATS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\obj\Debug\ATS.csproj.ResolveComReference.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\obj\Debug\ATS.admin_dashboard.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\obj\Debug\ATS.admin_empmngmnt.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\obj\Debug\ATS.admin_leave.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\obj\Debug\ATS.emp_dashboard.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\obj\Debug\ATS.emp_leave.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\obj\Debug\ATS.emp_time.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\obj\Debug\ATS.admin_pdfviewer.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\obj\Debug\ATS.form_login.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\obj\Debug\ATS.Properties.Resources.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\obj\Debug\ATS.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\obj\Debug\ATS.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\obj\Debug\ATS.csproj.CopyComplete
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\obj\Debug\ATS.exe
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\obj\Debug\ATS.pdb
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.4\ATS\ATS\obj\Debug\ATS.emp_changepass.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\ATS.exe.config
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\ATS.exe
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\ATS.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\Google.Protobuf.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\MySql.Data.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\QRCoder.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\System.Buffers.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\System.IO.Pipelines.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\System.Memory.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\Google.Protobuf.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\Google.Protobuf.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\MySql.Data.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\System.Buffers.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\System.IO.Pipelines.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\System.Memory.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\obj\Debug\ATS.csproj.AssemblyReference.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\obj\Debug\ATS.csproj.SuggestedBindingRedirects.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\obj\Debug\ATS.csproj.ResolveComReference.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\obj\Debug\ATS.admin_dashboard.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\obj\Debug\ATS.admin_empmngmnt.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\obj\Debug\ATS.admin_leave.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\obj\Debug\ATS.emp_dashboard.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\obj\Debug\ATS.emp_leave.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\obj\Debug\ATS.emp_time.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\obj\Debug\ATS.admin_pdfviewer.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\obj\Debug\ATS.emp_changepass.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\obj\Debug\ATS.form_login.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\obj\Debug\ATS.Properties.Resources.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\obj\Debug\ATS.csproj.GenerateResource.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\obj\Debug\ATS.csproj.CoreCompileInputs.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\obj\Debug\ATS.csproj.CopyComplete
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\obj\Debug\ATS.exe
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv2.5\ATS\ATS\obj\Debug\ATS.pdb
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\ATS.exe.config
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\ATS.exe
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\ATS.pdb
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\Google.Protobuf.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\MySql.Data.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\QRCoder.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\System.Buffers.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\System.Memory.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\Google.Protobuf.pdb
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\Google.Protobuf.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\MySql.Data.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\System.Buffers.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\System.Memory.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\obj\Debug\ATS.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\obj\Debug\ATS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\obj\Debug\ATS.csproj.ResolveComReference.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\obj\Debug\ATS.admin_dashboard.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\obj\Debug\ATS.admin_empmngmnt.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\obj\Debug\ATS.admin_leave.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\obj\Debug\ATS.emp_dashboard.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\obj\Debug\ATS.emp_leave.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\obj\Debug\ATS.emp_time.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\obj\Debug\ATS.admin_pdfviewer.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\obj\Debug\ATS.emp_changepass.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\obj\Debug\ATS.form_login.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\obj\Debug\ATS.Properties.Resources.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\obj\Debug\ATS.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\obj\Debug\ATS.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\obj\Debug\ATS.csproj.CopyComplete
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\obj\Debug\ATS.exe
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.6\ATS\ATS\obj\Debug\ATS.pdb
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\ATS.exe.config
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\ATS.exe
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\ATS.pdb
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\Google.Protobuf.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\MySql.Data.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\QRCoder.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\System.Buffers.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\System.Memory.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\Google.Protobuf.pdb
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\Google.Protobuf.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\MySql.Data.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\System.Buffers.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\System.Memory.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\obj\Debug\ATS.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\obj\Debug\ATS.csproj.SuggestedBindingRedirects.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\obj\Debug\ATS.csproj.ResolveComReference.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\obj\Debug\ATS.admin_dashboard.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\obj\Debug\ATS.admin_empmngmnt.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\obj\Debug\ATS.admin_leave.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\obj\Debug\ATS.emp_dashboard.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\obj\Debug\ATS.emp_leave.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\obj\Debug\ATS.emp_time.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\obj\Debug\ATS.admin_pdfviewer.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\obj\Debug\ATS.emp_changepass.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\obj\Debug\ATS.form_login.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\obj\Debug\ATS.Properties.Resources.resources
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\obj\Debug\ATS.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\obj\Debug\ATS.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\obj\Debug\ATS.csproj.CopyComplete
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\obj\Debug\ATS.exe
+C:\Users\Acer\source\repos\ATS Versions\ATSv2.7\ATS\ATS\obj\Debug\ATS.pdb
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\ATS.exe.config
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\ATS.exe
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\ATS.pdb
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\BouncyCastle.Crypto.dll
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\Google.Protobuf.dll
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\K4os.Compression.LZ4.dll
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\K4os.Hash.xxHash.dll
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\MySql.Data.dll
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\QRCoder.dll
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\System.Buffers.dll
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\System.IO.Pipelines.dll
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\System.Memory.dll
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\System.Numerics.Vectors.dll
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\BouncyCastle.Crypto.xml
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\Google.Protobuf.pdb
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\Google.Protobuf.xml
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\K4os.Compression.LZ4.xml
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\K4os.Hash.xxHash.xml
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\MySql.Data.xml
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\System.Buffers.xml
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\System.IO.Pipelines.xml
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\System.Memory.xml
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\System.Numerics.Vectors.xml
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\Interop.AcroPDFLib.dll
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\obj\Debug\ATS.csproj.AssemblyReference.cache
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\obj\Debug\ATS.csproj.SuggestedBindingRedirects.cache
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\obj\Debug\Interop.AcroPDFLib.dll
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\obj\Debug\ATS.csproj.ResolveComReference.cache
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\obj\Debug\ATS.admin_dashboard.resources
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\obj\Debug\ATS.admin_empmngmnt.resources
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\obj\Debug\ATS.admin_leave.resources
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\obj\Debug\ATS.emp_dashboard.resources
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\obj\Debug\ATS.emp_leave.resources
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\obj\Debug\ATS.emp_time.resources
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\obj\Debug\ATS.admin_pdfviewer.resources
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\obj\Debug\ATS.emp_changepass.resources
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\obj\Debug\ATS.form_login.resources
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\obj\Debug\ATS.Properties.Resources.resources
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\obj\Debug\ATS.csproj.GenerateResource.cache
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\obj\Debug\ATS.csproj.CoreCompileInputs.cache
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\obj\Debug\ATS.csproj.CopyComplete
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\obj\Debug\ATS.exe
+D:\myNeeds\School document\QA\ATSv2.8\ATS\ATS\obj\Debug\ATS.pdb
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\ATS.exe.config
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\ATS.exe
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\ATS.pdb
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\BouncyCastle.Crypto.dll
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\Google.Protobuf.dll
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\K4os.Compression.LZ4.dll
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\K4os.Hash.xxHash.dll
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\MySql.Data.dll
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\QRCoder.dll
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\System.Buffers.dll
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\System.IO.Pipelines.dll
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\System.Memory.dll
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\System.Numerics.Vectors.dll
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\BouncyCastle.Crypto.xml
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\Google.Protobuf.pdb
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\Google.Protobuf.xml
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\K4os.Compression.LZ4.xml
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\K4os.Hash.xxHash.xml
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\MySql.Data.xml
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\System.Buffers.xml
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\System.IO.Pipelines.xml
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\System.Memory.xml
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\System.Numerics.Vectors.xml
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\Interop.AcroPDFLib.dll
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\obj\Debug\ATS.csproj.AssemblyReference.cache
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\obj\Debug\ATS.csproj.SuggestedBindingRedirects.cache
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\obj\Debug\Interop.AcroPDFLib.dll
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\obj\Debug\ATS.csproj.ResolveComReference.cache
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\obj\Debug\ATS.admin_dashboard.resources
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\obj\Debug\ATS.admin_empmngmnt.resources
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\obj\Debug\ATS.admin_leave.resources
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\obj\Debug\ATS.emp_dashboard.resources
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\obj\Debug\ATS.emp_leave.resources
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\obj\Debug\ATS.emp_time.resources
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\obj\Debug\ATS.admin_pdfviewer.resources
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\obj\Debug\ATS.emp_changepass.resources
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\obj\Debug\ATS.form_login.resources
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\obj\Debug\ATS.Properties.Resources.resources
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\obj\Debug\ATS.csproj.GenerateResource.cache
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\obj\Debug\ATS.csproj.CoreCompileInputs.cache
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\obj\Debug\ATS.csproj.CopyComplete
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\obj\Debug\ATS.exe
+D:\myNeeds\School document\QA\ATSv2.9\ATS\ATS\obj\Debug\ATS.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\ATS.exe.config
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\ATS.exe
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\ATS.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\Google.Protobuf.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\MySql.Data.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\QRCoder.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\System.Buffers.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\System.IO.Pipelines.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\System.Memory.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\Google.Protobuf.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\Google.Protobuf.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\MySql.Data.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\System.Buffers.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\System.IO.Pipelines.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\System.Memory.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\obj\Debug\ATS.csproj.AssemblyReference.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\obj\Debug\ATS.csproj.SuggestedBindingRedirects.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\obj\Debug\ATS.csproj.ResolveComReference.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\obj\Debug\ATS.admin_dashboard.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\obj\Debug\ATS.admin_empmngmnt.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\obj\Debug\ATS.admin_leave.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\obj\Debug\ATS.emp_dashboard.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\obj\Debug\ATS.emp_leave.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\obj\Debug\ATS.emp_time.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\obj\Debug\ATS.admin_pdfviewer.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\obj\Debug\ATS.emp_changepass.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\obj\Debug\ATS.form_login.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\obj\Debug\ATS.Properties.Resources.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\obj\Debug\ATS.csproj.GenerateResource.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\obj\Debug\ATS.csproj.CoreCompileInputs.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\obj\Debug\ATS.csproj.CopyComplete
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\obj\Debug\ATS.exe
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.0\ATS\ATS\obj\Debug\ATS.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\ATS.exe.config
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\ATS.exe
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\ATS.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\Google.Protobuf.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\MySql.Data.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\QRCoder.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\System.Buffers.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\System.IO.Pipelines.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\System.Memory.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\Google.Protobuf.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\Google.Protobuf.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\MySql.Data.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\System.Buffers.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\System.IO.Pipelines.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\System.Memory.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\obj\Debug\ATS.csproj.AssemblyReference.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\obj\Debug\ATS.csproj.SuggestedBindingRedirects.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\obj\Debug\ATS.csproj.ResolveComReference.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\obj\Debug\ATS.admin_dashboard.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\obj\Debug\ATS.admin_empmngmnt.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\obj\Debug\ATS.admin_leave.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\obj\Debug\ATS.emp_dashboard.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\obj\Debug\ATS.emp_leave.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\obj\Debug\ATS.emp_time.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\obj\Debug\ATS.admin_pdfviewer.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\obj\Debug\ATS.emp_changepass.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\obj\Debug\ATS.form_login.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\obj\Debug\ATS.Properties.Resources.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\obj\Debug\ATS.csproj.GenerateResource.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\obj\Debug\ATS.csproj.CoreCompileInputs.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\obj\Debug\ATS.csproj.CopyComplete
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\obj\Debug\ATS.exe
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.1\ATS\ATS\obj\Debug\ATS.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\ATS.exe.config
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\ATS.exe
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\ATS.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\Google.Protobuf.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\MySql.Data.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\QRCoder.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\System.Buffers.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\System.IO.Pipelines.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\System.Memory.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\Google.Protobuf.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\Google.Protobuf.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\MySql.Data.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\System.Buffers.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\System.IO.Pipelines.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\System.Memory.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\obj\Debug\ATS.csproj.AssemblyReference.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\obj\Debug\ATS.csproj.ResolveComReference.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\obj\Debug\ATS.admin_dashboard.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\obj\Debug\ATS.admin_empmngmnt.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\obj\Debug\ATS.admin_leave.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\obj\Debug\ATS.emp_dashboard.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\obj\Debug\ATS.emp_leave.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\obj\Debug\ATS.emp_time.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\obj\Debug\ATS.admin_pdfviewer.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\obj\Debug\ATS.emp_changepass.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\obj\Debug\ATS.form_login.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\obj\Debug\ATS.Properties.Resources.resources
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\obj\Debug\ATS.csproj.GenerateResource.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\obj\Debug\ATS.csproj.CoreCompileInputs.cache
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\obj\Debug\ATS.exe
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\obj\Debug\ATS.pdb
+C:\Users\CJ Elarcosa\source\repos\ATS Versions\ATSv3.2\ATS\ATS\obj\Debug\ATS.csproj.Up2Date
